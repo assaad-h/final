@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/final/static/css/main.b8fc74a3.css",
+    "main.js": "/final/static/js/main.0dc96402.js",
+    "static/media/silver.jpg": "/final/static/media/silver.2e28828062d8c2fc18b9.jpg",
+    "static/media/benchpress.jpg": "/final/static/media/benchpress.540902850a25eb2739af.jpg",
+    "static/media/seatedCableRow.jpg": "/final/static/media/seatedCableRow.76c79e619111220a941d.jpg",
+    "static/media/treadmill.jpg": "/final/static/media/treadmill.32f9bca5724ec8e2de86.jpg",
+    "static/media/asmith.jpg": "/final/static/media/asmith.6f70f4e85022428f69e9.jpg",
+    "static/media/dadams.jpg": "/final/static/media/dadams.46e7f6c4ca8cfd7bb4ff.jpg",
+    "static/media/bronze.jpg": "/final/static/media/bronze.a32be2afc530cc1e7ea9.jpg",
+    "static/media/squatrack.jpg": "/final/static/media/squatrack.ccf0de79b3f464bb9645.jpg",
+    "static/media/thill.jpg": "/final/static/media/thill.6419aaa328b6b88bdf22.jpg",
+    "static/media/gold.jpg": "/final/static/media/gold.26d325a52b3c8340bc02.jpg",
+    "static/media/phoneNumIcon.png": "/final/static/media/phoneNumIcon.97542532e9c221b5d36d.png",
+    "static/media/appointments.jpg": "/final/static/media/appointments.8abd5aaae2005bd8186a.jpg",
+    "static/media/location.PNG": "/final/static/media/location.76ea31197107f7bf2c4c.PNG",
+    "index.html": "/final/index.html",
+    "main.b8fc74a3.css.map": "/final/static/css/main.b8fc74a3.css.map",
+    "main.0dc96402.js.map": "/final/static/js/main.0dc96402.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8fc74a3.css",
+    "static/js/main.0dc96402.js"
+  ]
+}
