@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+
+/* navbar styles */
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+
+.content {
+  padding: 20px;
+}
+
+#icon {
+  border-radius: 50%;
+}
+
+.rowImage {
+  align-items: center;
+}
+
+.rowTrainer{
+  text-align : start;
+  justify-content : center;
+}
+
+.cardAlign{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.formReviews{
+  align-items: center;
+  justify-content: center;
+  text-align: start;
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.rowMembership {
+  text-align: center;
+  align-items: center;
+}
+
+/* make logo spin on home page*/
+.App-logo {
+  height: 30vmin;
+  width: 30vmin;
+  pointer-events: none;
+}
+
+@media screen and (max-width: 1000px) {
+
+  .myImageClass {display:none;}
+
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
